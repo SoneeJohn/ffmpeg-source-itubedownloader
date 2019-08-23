@@ -2,7 +2,6 @@
 
 Source code of [ffmpeg](https://ffmpeg.org/) used by iTubeDownloader 6.5.0 or later 
 
-
 Build information 
 
 ```
@@ -12,6 +11,7 @@ configuration: --cc=/usr/bin/clang --prefix=/opt/ffmpeg --extra-version=tessus -
 
 Version 4.2
 
+Download binary for macOS [here](https://github.com/SoneeJohn/ffmpeg-source-itubedownloader/releases/download/v4.2/ffmpeg)
 
 Trademark
 
