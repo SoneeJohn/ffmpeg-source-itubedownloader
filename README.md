@@ -12,7 +12,7 @@ ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
 
 Version 4.3.1
 
-Download binary for macOS [here](https://github.com/SoneeJohn/ffmpeg-source-itubedownloader/releases/download/v4.2/ffmpeg)
+Download binary for macOS [here](https://github.com/SoneeJohn/ffmpeg-source-itubedownloader/releases/download/v4.3.1/ffmpeg)
 
 Trademark
 
