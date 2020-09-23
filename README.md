@@ -16,3 +16,8 @@ Download binary for macOS [here](https://github.com/SoneeJohn/ffmpeg-source-itub
 Trademark
 
 FFmpeg is a trademark of Fabrice Bellard, originator of the FFmpeg project.
+
+Credit 
+
+Build script adapted from [
+ffmpeg-build-script](https://github.com/markus-perl/ffmpeg-build-script) by markus-perl
