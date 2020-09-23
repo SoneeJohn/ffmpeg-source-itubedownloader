@@ -1,15 +1,16 @@
 # ffmpeg-source-itubedownloader
 
-Source code of [ffmpeg](https://ffmpeg.org/) used by iTubeDownloader 6.5.0 or later 
+Source code of [ffmpeg](https://ffmpeg.org/) used by iTubeDownloader 6.5.23 or later 
 
 Build information 
 
 ```
-built with Apple LLVM version 10.0.1 (clang-1001.0.46.4)
-configuration: --cc=/usr/bin/clang --prefix=/opt/ffmpeg --extra-version=tessus --enable-avisynth --enable-fontconfig --enable-gpl --enable-libaom --enable-libass --enable-libbluray --enable-libdav1d --enable-libfreetype --enable-libgsm --enable-libmodplug --enable-libmp3lame --enable-libmysofa --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenh264 --enable-libopenjpeg --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvmaf --enable-libvo-amrwbenc --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxavs --enable-libxvid --enable-libzimg --enable-libzmq --enable-libzvbi --enable-version3 --pkg-config-flags=--static --disable-ffplay
+ffmpeg version 4.3.1 Copyright (c) 2000-2020 the FFmpeg developers
+  built with Apple clang version 12.0.0 (clang-1200.0.32.2)
+  configuration: --enable-videotoolbox --pkgconfigdir=/Users/soneejohn/Developer/ffmpeg-source-itubedownloader/workspace/lib/pkgconfig --prefix=/Users/soneejohn/Developer/ffmpeg-source-itubedownloader/workspace --pkg-config-flags=--static --extra-cflags=-I/Users/soneejohn/Developer/ffmpeg-source-itubedownloader/workspace/include --extra-ldflags=-L/Users/soneejohn/Developer/ffmpeg-source-itubedownloader/workspace/lib --extra-libs='-lpthread -lm' --enable-static --disable-ffplay
 ```
 
-Version 4.2
+Version 4.3.1
 
 Download binary for macOS [here](https://github.com/SoneeJohn/ffmpeg-source-itubedownloader/releases/download/v4.2/ffmpeg)
 
