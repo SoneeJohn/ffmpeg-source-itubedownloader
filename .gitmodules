@@ -1,6 +1,3 @@
-[submodule "Source"]
-	path = Source
-	url = https://github.com/FFmpeg/FFmpeg.git
 [submodule "mobile-ffmpeg"]
 	path = mobile-ffmpeg
 	url = https://SoneeJohn@github.com/alphasoftware-co/mobile-ffmpeg
